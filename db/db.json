@@ -3,12 +3,26 @@
     {
       "id": 1,
       "name": "banjo-cat",
-      "src": "../public/images/banjo-cat.png"
+      "src": "../public/images/banjo-cat.png",
+      "scale": "60"
     },
     {
       "id": 2,
       "name": "baby-elephant", 
-      "src": "../public/images/baby-elephant.png"
+      "src": "../public/images/baby-elephant.png",
+      "scale": "100"
+    },
+    {
+      "id": 3,
+      "name": "bananas", 
+      "src": "../public/images/bananas.png",
+      "scale": "150"
+    },
+    {
+      "id": 4,
+      "name": "cat-cute-heart",
+      "src": "../public/images/cat-cute-heart.png",
+      "scale": "100"
     }
   ]
 }
