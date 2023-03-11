@@ -16,12 +16,60 @@
       "id": 3,
       "name": "bananas", 
       "src": "../public/images/bananas.png",
-      "scale": "150"
+      "scale": "140"
     },
     {
       "id": 4,
       "name": "cat-cute-heart",
       "src": "../public/images/cat-cute-heart.png",
+      "scale": "95"
+    }, 
+    {
+      "id": 5,
+      "name": "cherry",
+      "src": "../public/images/cherry.png",
+      "scale": "100"
+    },
+    {
+      "id": 6,
+      "name": "butterfly-rainbow",
+      "src": "../public/images/butterfly-rainbow.png",
+      "scale": "100"
+    },
+    {
+      "id": 7,
+      "name": "crystals",
+      "src": "../public/images/crystals.png",
+      "scale": "75"
+    },
+    {
+      "id": 8,
+      "name": "mandala-rainbow",
+      "src": "../public/images/mandala-rainbow.png",
+      "scale": "90"
+    },
+    {
+      "id": 9,
+      "name": "moth-white",
+      "src": "../public/images/moth-white.png",
+      "scale": "100"
+    },
+    {
+      "id": 10,
+      "name": "tree",
+      "src": "../public/images/tree.png",
+      "scale": "100"
+    },
+    {
+      "id": 11,
+      "name": "people-circle",
+      "src": "../public/images/people-circle.png",
+      "scale": "100"
+    },
+    {
+      "id": 12,
+      "name": "full-moon",
+      "src": "../public/images/full-moon.png",
       "scale": "100"
     }
   ]
