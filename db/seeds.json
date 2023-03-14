@@ -71,6 +71,120 @@
       "name": "full-moon",
       "src": "../public/images/full-moon.png",
       "scale": "100"
+    },
+    {
+      "id": 13,
+      "name": "butterfly-stained-glass",
+      "src": "../public/images/butterfly-stained-glass.png",
+      "scale": "100"
+    },
+    {
+      "id": 14,
+      "name": "forget-me-not",
+      "src": "../public/images/forget-me-not.png",
+      "scale": "100"
+    },
+    {
+      "id": 15,
+      "name": "rainbow",
+      "src": "../public/images/rainbow.png",
+      "scale": "100"
+    },
+    {
+        "id": 16,
+        "name": "banjo-cat",
+        "src": "../public/images/banjo-cat.png",
+        "scale": "60"
+      },
+      {
+        "id": 17,
+        "name": "baby-elephant", 
+        "src": "../public/images/baby-elephant.png",
+        "scale": "100"
+      },
+      {
+        "id": 18,
+        "name": "bananas", 
+        "src": "../public/images/bananas.png",
+        "scale": "140"
+      },
+      {
+        "id": 19,
+        "name": "cat-cute-heart",
+        "src": "../public/images/cat-cute-heart.png",
+        "scale": "95"
+      }, 
+      {
+        "id": 20,
+        "name": "cherry",
+        "src": "../public/images/cherry.png",
+        "scale": "100"
+      },
+      {
+        "id": 21,
+        "name": "butterfly-rainbow",
+        "src": "../public/images/butterfly-rainbow.png",
+        "scale": "100"
+      },
+      {
+        "id": 22,
+        "name": "crystals",
+        "src": "../public/images/crystals.png",
+        "scale": "75"
+      },
+      {
+        "id": 23,
+        "name": "mandala-rainbow",
+        "src": "../public/images/mandala-rainbow.png",
+        "scale": "90"
+      },
+      {
+        "id": 24,
+        "name": "moth-white",
+        "src": "../public/images/moth-white.png",
+        "scale": "100"
+      },
+      {
+        "id": 25,
+        "name": "tree",
+        "src": "../public/images/tree.png",
+        "scale": "100"
+      },
+      {
+        "id": 26,
+        "name": "people-circle",
+        "src": "../public/images/people-circle.png",
+        "scale": "100"
+      },
+      {
+        "id": 27,
+        "name": "full-moon",
+        "src": "../public/images/full-moon.png",
+        "scale": "100"
+      },
+      {
+        "id": 28,
+        "name": "butterfly-stained-glass",
+        "src": "../public/images/butterfly-stained-glass.png",
+        "scale": "100"
+      },
+      {
+        "id": 29,
+        "name": "forget-me-not",
+        "src": "../public/images/forget-me-not.png",
+        "scale": "100"
+      },
+      {
+        "id": 30,
+        "name": "rainbow",
+        "src": "../public/images/rainbow.png",
+        "scale": "100"
+      }
+      ],
+      "scores": [
+        
+      ],
+      "comments": [
+        
+      ]
     }
-  ]
-}
