@@ -182,9 +182,20 @@
       }
       ],
       "scores": [
-        
+        {
+          "username": "zigzag",
+          "score": 2450,
+          "id": 1
+        }
       ],
       "comments": [
-        
+        {
+          "username": "zigzag",
+          "text": "I hope you enjoyed the game!",
+          "date": "March 14, 2023",
+          "time": " at 21:55",
+          "likes": 1,
+          "id": 1
+        }
       ]
     }
